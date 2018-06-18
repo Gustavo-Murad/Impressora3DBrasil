@@ -34,6 +34,7 @@ TO ADD...
 
 ## Filamentos
 
+  * [2M3D](http://www.2m3d.com.br/) - PLA, ABS Premium,  PETG, Flexível.
   * [3d Applications](http://www.3dapplications.com.br/) - PLA, ABS Premium,  PETG, Flexível, Wood e HIPS
   * [3d Prime](https://www.3dprime.com.br/) - PLA, ABS, PETG, ASA
   * [3dcog](http://www.3dcogloja.com.br/) - ABS
