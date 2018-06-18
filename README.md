@@ -37,6 +37,7 @@ TO ADD...
   * [2M3D](http://www.2m3d.com.br/) - PLA, ABS Premium,  PETG, Flexível.
   * [3d Applications](http://www.3dapplications.com.br/) - PLA, ABS Premium,  PETG, Flexível, Wood e HIPS
   * [3d Prime](https://www.3dprime.com.br/) - PLA, ABS, PETG, ASA
+  * [3beshop](https://www.3beshop.com.br/consumiveis) - PLA, ABS.
   * [3dcog](http://www.3dcogloja.com.br/) - ABS
   * [3Decia](https://www.3decia.com.br/) - Polysmoth, HIPS, PVA, PLA(Premium, Heat Resistence, High Speed, Long-time print), WOOD, COOPERFILL, STEELFILL, Flexível (Ninjaflex,UltraFlexx, TPU,TPA,Polyflex),PC Policarbonato, CoPa Nylon, Fibra de Carbono, PolyPropylene. 
   * [3dfila](https://3dfila.com.br/) - ABS (Premium+, Premium+ Cristal), Flexível, PLA, PETG-XT, Titan-HT
@@ -80,7 +81,8 @@ TO ADD...
   * [Sethi3d](https://www.sethi3d.com.br/produtos-sethi3d_) - ABS PLA PETG FLEX          
   * [Takao](https://lista.mercadolivre.com.br/_CustId_21890632) - ABS                   
   * [TATO](http://tato.ind.br/) -  PLA                  
-  * [Tec3D](https://www.tec3donline.com.br/) - ABS                   
+  * [Tec3D](https://www.tec3donline.com.br/) - ABS 
+  * [Tegape Química](http://www.tegapequimica.com.br/produto/52/Filamentos-para-impressoras-3d#ad-image-0) - ABS, PLA, Flexível, PETG.                    
   * [Up3DBrasil](https://www.up3dbrasil.com.br/) - ABS PLA PETG HIPS PVA WOOD FLEX  NYLON Fibra de Carbono SILK 
   * [Versamídia](http://www.versamidia.com.br/) - ABS PLA PETG TPR
   * [Voolt3D](https://www.voolt3d.com.br/) - ABS PLA PETG WOOD            
